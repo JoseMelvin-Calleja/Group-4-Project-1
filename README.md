@@ -22,11 +22,9 @@ Correlations of Days to Pending vs Number of New Properties per City
 Statistical Analysis of Unemployment Rates vs Home Values and Sales
 
 #### References 
-American Housing Survey
-
-Zillow Housing Data
-
-Bureau of Labor Statistics
+1. American Housing Survey
+2. Zillow Housing Data
+3. Bureau of Labor Statistics
 
 <p align="center">
   <img src="https://www.discoverphl.com/wp-content/uploads/2021/07/Philadelphia-Museum-of-Art-and-skyline.-Photo-by-Elevated-Angles-1.jpg" alt="Philadelphia">
