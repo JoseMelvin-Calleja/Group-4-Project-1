@@ -21,8 +21,10 @@ Correlations of Days to Pending vs Number of New Properties per City
 Statistical Analysis of Unemployment Rates vs Home Values and Sales
 
 #### References 
-American Housing Survey;
-Zillow Housing Data;
+American Housing Survey
+
+Zillow Housing Data
+
 Bureau of Labor Statistics
 
 <p align="center">
