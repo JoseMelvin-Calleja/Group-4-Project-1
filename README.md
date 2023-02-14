@@ -1,4 +1,5 @@
-# Group-4-Project-1
+# Philadelphia Housing Market
+Group 4
 UPenn Data Science Bootcamp Project 1
 
 The Group-4-Project-1 Repository contains an analysis of real estate pricing trends in Philadelphia and 4 other similarly sized cities: Phoenix, San Diego, San Antonio, and Dallas. It reveals the curious interplay of socio-economic, demographic, and geographic factors that impact the housing market including, but not limited to, home values, time to sale, and number of properties available. This can provide valuable insights for stakeholders to inform housing market interventions and promote sustainable growth in cities.
