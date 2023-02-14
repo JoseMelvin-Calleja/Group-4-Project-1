@@ -27,6 +27,9 @@ Our goal of the project was to investigate the relationship between various fact
   * Correlations of Days to Pending vs Number of New Properties per City
   * Statistical Analysis of Unemployment Rates vs Home Values and Sales
 
+# Conclusion
+  * After conducting a comprehensive analysis of the relevant data on the housing market state in each city, it is clear that several factors are impacting the Philadelphia market. The most significant factor is the aftermath of the COVID-19 pandemic, which has led to an overheated housing market with homes selling at significantly higher prices than the average. Additionally, Philadelphia has consistently had higher unemployment rates and lower education levels per citizen comapred to the other cities. These factors may correlate with a lower median income rate, which in turn can lead to fewer home sales. In conclusion, it may be smart for real estate developers or home buyers interested in purchasing property in the Philadelphia area to consider waiting for a few years until the overheated housing market cools off.
+
 #### References 
 1. American Housing Survey
 2. Zillow Housing Data
