@@ -7,8 +7,8 @@ The Group-4-Project-1 Repository contains an analysis of real estate pricing tre
 Our goal of the project was to investigate the relationship between various factors related to the housing market and the local economy. Our project was aimed to explore the various factors that contribute to the state of the housing market in different cities, and to understand how these factors are related to each other. This was achieved by analyzing datasets of the differnet variables that describe a current housing market state for each city and to compare them as a group to help us come to a conclusion on a decision related to housing and economic development.
 
 ### Data analyzed:
-Unemployment Rates
-Race of Homeowners
+* Unemployment Rates
+* Race of Homeowners
 Age of Homeowners
 Education of Homeowners
 Home Values per City
