@@ -23,4 +23,6 @@ Average Number of Days to Pending per City
 Correlations of Days to Pending vs Number of New Properties per City
 Statistical Analysis of Unemployment Rates vs Home Values and Sales
 
-<img align alt="Coding" width="400" src="https://www.discoverphl.com/wp-content/uploads/2021/07/Philadelphia-Museum-of-Art-and-skyline.-Photo-by-Elevated-Angles-1.jpg">
+<p align="center">
+  <img src="https://www.discoverphl.com/wp-content/uploads/2021/07/Philadelphia-Museum-of-Art-and-skyline.-Photo-by-Elevated-Angles-1.jpg" alt="Philadelphia">
+</p>
