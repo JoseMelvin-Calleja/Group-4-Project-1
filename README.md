@@ -16,6 +16,8 @@ Education of Homeowners
 Home Values per City
 Average List Prices per City
 Housing Sale Prices per City
+Number of New Monthly Listings per City
+Percentages of Homes Sold Above List Price
 Average Number of Properties with a Price Cut per City
 Average Number of Days to Pending per City
 Correlations of Days to Pending vs Number of New Properties per City
